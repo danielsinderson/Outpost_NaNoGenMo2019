@@ -1,0 +1,8 @@
+{
+  "type": ["bacterium", "virus"],
+  "shape": {
+    "bacterium": ["spherical", "pill-shaped", "bean-shaped", "helical", "spiral", "worm-like", "star-shaped"],
+    "virus": ["icosahedral", "enveloped", "helical", "filamentous", "head-and-tail"]},
+  "harm": [["harmless", 0], ["mostly harmless", 1], [" moderately harmful", 2], ["harmful", 4], ["deadly", 7], ["extremely deadly", 12]],
+  "contagious": [["not contagious", 0], ["mildly contagious", 2], ["contagious", 4], ["very contagious", 6], ["extremely contagious", 8]]
+}

@@ -1,0 +1,5 @@
+{
+  "structure": ["cubic", "hexagonal", "trigonal", "tetragonal", "orthorhombic", "monoclinic", "triclinic"],
+  "form": ["crystal", "metal", "rock"],
+  "transparency": ["transparent", "mostly transparent", "translucent", "mostly opaque", "opaque"]
+}

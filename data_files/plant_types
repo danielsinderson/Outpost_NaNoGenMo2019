@@ -1,0 +1,26 @@
+{
+  "tree": {
+    "fruit": {
+      "inside texture": ["crisp", "mealy", "fibrous", "fleshy", "mushy", "hard", "firm"],
+      "size": ["cluster berry", "small berry", "pebble-sized berry", "palm-sized fruit", "head-sized fruit", "human-sized fruit"],
+      "shape": ["spherical", "oblong", "ridged", "spiky", "sickle-shaped", "toroid", "prism-like"],
+      "skin/husk": ["fuzzy husk", "spiny husk", "smooth shell", "textured shell", "soft skin", "leathery skin"],
+      "smell": ["fruity", "rotten", "cinnamon-like", "acetone-like", "gasoline-like", "slightly sweet", "spiced", "hypnotic"]
+    },
+    "bark": ["rough patterned", "rough and deep-ridged", "smooth", "spined", "bumpy"],
+    "leaves": {
+      "size": ["tiny", "small", "hand-sized", "plate-sized", "bath mat-sized", "human-sized"],
+      "shape": ["pronged", "ovoid", "toroid", "saw-toothed", "rectangular", "long needle", "short needle"]
+    },
+    "height": [1, 3, 6, 12, 20, 32, 48, 68, 92, 120, 152, 188],
+    "diameter": [0.125, 0.25, 0.5, 1.0, 2.0, 3.5, 5.5, 8.0, 11.0, 14.5, 18.5, 23.0]
+  },
+  "ground cover": {
+    "shape": ["short grass", "cluster grass", "tall grass", "succulent", "cactus", "moss", "lichen", "herb"],
+    "texture": ["fuzzy", "smooth", "prickly", "leathery"],
+    "flower": {
+      "shape": ["prismatic", "sun burst", "lipped", "clustered", "pronged", "crystalline", "fluffball"],
+      "smell": ["fruity", "rotten", "cinnamon-like", "acetone-like", "scentless", "slightly sweet", "spiced", "hypnotic"]
+    }
+  }
+}

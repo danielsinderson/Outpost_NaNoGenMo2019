@@ -1,0 +1,33 @@
+{
+  "environmental niche": ["aquatic", "terrestrial", "arboreal", "subterranean", "aerial"],
+  "dietary niche": ["herbivorous", "omnivorous", "carnivorous"],
+  "size": {
+    "minuscule": [0.00001, 0.001, 0],
+    "tiny": [0.001, 0.1, 0],
+    "small": [0.1, 2, 0],
+    "medium-small": [2, 40, 2],
+    "medium": [40, 100, 4],
+    "large": [100, 250, 8],
+    "huge": [250, 1250, 12],
+    "gigantic": [1250, 10000, 20],
+    "behemoth": [10000, 160000, 32]},
+  "skin": ["scaled skin", "leathery skin", "smooth chitin", "ridged chitin", "spiny chitin", "furry skin", "prickly skin", "soft skin", "flabby skin", "armor scaled skin"],
+  "pattern": ["mottled", "striped", "spotted", "fractal patterned", "splotchy", "crystalline-patterned", "tessellated"],
+  "mouth": {
+    "herbivorous": ["cusp-toothed mouth", "gulping mouth", "scissor and enzyme mouth", "baleen mouth", "long beak", "bill"],
+    "omnivorous": ["cusp-toothed mouth with canines", "carnassial-toothed mouth", "gulping mouth", "long beak"],
+    "carnivorous": ["gulping mouth", "sucking proboscis", "long beak", "razored beak", "sucking fangs", "carnassial-toothed mouth"]},
+  "eyes": {
+    "number": [2, 10],
+    "type": ["light receptors", "focusing lens eyes", "compound eyes"],
+    "visible range": ["black and white", "visible spectrum", "infrared only", "ultraviolet only", "visible + infrared", "visible + ultraviolet"]},
+  "locomotion": {
+    "aquatic": ["crawling", "slithering", "undulating", "swimming", "propulsing", "drifting"],
+    "terrestrial": ["walking", "crawling", "slithering", "undulating"],
+    "arboreal": ["crawling", "brachiating", "slithering"],
+    "subterranean": ["crawling", "walking", "slithering"],
+    "aerial": ["flying", "drifting", "propulsing"]},
+  "poison": [1, 3],
+  "intelligence": [1, 10],
+  "aggression": [[1, "nearly inert"], [2, "docile"], [3, "calm"], [4, "attentive"], [5, "wary"], [6, "aggressive"], [7, "violent"], [8, "berserk"]]
+}
